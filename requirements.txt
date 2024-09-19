@@ -3,8 +3,3 @@ scikit-learn
 pandas
 streamlit
 seaborn
-nltk
-wordcloud
-pickle
-string
-
