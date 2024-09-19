@@ -2,7 +2,9 @@ import streamlit as st
 import pickle
 import string
 import nltk
-nltk.download('punkt')
+nltk.download('punkt', download_dir='C:\\Users\\Admin\\Desktop\\JN\\nltk_data')
+import nltk
+nltk.data.path.append('C:\\Users\\Admin\\Desktop\\JN\\nltk_data')
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 print(stopwords.words('english'))  # This should print the list of English stopwords
