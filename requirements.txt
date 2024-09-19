@@ -1,6 +1,10 @@
 numpy
-scikit-learn
+sklearn
 pandas
 streamlit
 seaborn
 nltk
+wordcloud
+pickle
+string
+PorterStemmer
