@@ -4,3 +4,5 @@ pandas
 streamlit
 seaborn
 nltk
+nltk
+python -m nltk.downloader punkt
